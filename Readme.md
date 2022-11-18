@@ -58,7 +58,7 @@
 
  ## Ideation Phase :
    
-   #### Literature Survey : [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Ideation%20Phase/Literature_Survey.pdf) ;
+   #### Literature Survey : [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Ideation%20Phase/Literature_Survey.pdf) ;
 			 
    #### Empathy Map       : [Empathy map canvas](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Ideation%20Phase/Empathy_Map.pdf) ;
 			 
@@ -92,7 +92,7 @@
 ## Project Planning Phase
    #### Milestone and Activity List : [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List.pdf)
 
-   #### Sprint delivery Plan :[Sprint delivery Plan](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Sprint%20delivery%20plan.pdf)
+   #### Sprint delivery Plan : [Sprint delivery Plan](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Sprint%20delivery%20plan.pdf)
 
 ## Project Development Phase
    #### Sprint1: [Sprint 1]()
