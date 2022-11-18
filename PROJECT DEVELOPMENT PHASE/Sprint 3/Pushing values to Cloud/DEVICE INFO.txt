@@ -1,0 +1,10 @@
+myConfig = { 
+    "identity": {
+        "orgId": "6q4xt1",
+        "typeId": "BlackSquid",
+        "deviceId":"12345"
+    },
+    "auth": {
+        "token": "w+U5*9o*h3W0I@A-tt"
+    }
+}
