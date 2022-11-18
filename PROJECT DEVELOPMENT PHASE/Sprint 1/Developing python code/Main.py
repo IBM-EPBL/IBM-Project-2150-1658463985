@@ -27,7 +27,21 @@ client.connect()
 
 cityName = input("\nEnter the City Name: ")
 
+user_input = input('\nAny school is there(yes/no): ')
+user_input1 = input('\nAny hospital is there(yes/no): ')
+
+if user_input1.lower() and user_input.lower() == 'yes':
+    speedlimit=20
+else:
+    speedlimit=30
+       
 while True:
+   
+   
+        
+  
+       
+     
     #Get Weather data from any city 
     
     #Getting weather apiKey from Openweathermap
@@ -50,9 +64,9 @@ while True:
     
     city=cityName.upper()
     
-    myData={'temperature':temp, 'humidity':hum, "description":des, "city":city}
+    myData={'temperature':temp, 'humidity':hum, "description":des, "city":city, "speedlimit":speedlimit}
     client.publishEvent(eventId="status", msgFormat="json", data=myData, qos=0, onPublish=None)
-    print("Published data Successfully:  ", myData)
+    print("\nPublished data Successfully:  ", myData)
     client.commandCallback = myCommandCallback
     time.sleep(2)
 client.disconnect()
