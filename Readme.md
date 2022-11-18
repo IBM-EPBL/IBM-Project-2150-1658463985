@@ -71,37 +71,37 @@
 
 ### Project Design Phase 1 :
    
-   #### Proposed Solution            :  [ProposedSolution](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20I/Proposed_Solution.pdf)
+   #### Proposed Solution     :  [ProposedSolution](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20I/Proposed_Solution.pdf)
 		  
-   #### Problem solution Fit         :  [Problem_solution_fit](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20I/Problem_Solution_Fit.pdf)
+   #### Problem solution Fit  :  [Problem_solution_fit](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20I/Problem_Solution_Fit.pdf)
 		  
-   #### Solution Architecture        :  [SolutionArchitecture](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20I/Solution_Architecture.pdf)
+   #### Solution Architecture :  [SolutionArchitecture](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20I/Solution_Architecture.pdf)
 
    ### Project Design Phase 2 : 
    
-   #### Customer Journey Map         :  [CustomerJourneyMap](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Customer_Journey_Map.pdf)
+   #### Customer Journey Map  :  [CustomerJourneyMap](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Customer_Journey_Map.pdf)
 
    
-   #### Solution Requirements        :  [SolutionRequirements](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Solution_Requirements.pdf)
+   #### Solution Requirements :  [SolutionRequirements](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Solution_Requirements.pdf)
 
    
-   #### Data Flow	             :  [DataFlow](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Data_Flow_Diagrams.pdf)
+   #### Data Flow	      :  [DataFlow](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Data_Flow_Diagrams.pdf)
 
-   #### Technology Stack             :  [Technology Stack](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Technology_Stack.pdf)
+   #### Technology Stack      :  [Technology Stack](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Design%20Phase%20II/Technology_Stack.pdf)
 
 ## Project Planning Phase
-   #### Milestone and Activity List  :  [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List.pdf)
+   #### Milestone & Activity List  :  [Milestone & Activity List](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Milestone%20%26%20Activity%20List.pdf)
 
-   #### Sprint delivery Plan         :  [Sprint delivery Plan](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Sprint%20delivery%20plan.pdf)
+   #### Sprint delivery Plan       :  [Sprint delivery Plan](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/blob/main/PROJECT%20DESIGN%20AND%20PLANNING/Project%20Planning%20Phase/Sprint%20delivery%20plan.pdf)
 
 ## Project Development Phase
-   #### Sprint1                      :  [Sprint 1]()
+   #### Sprint1                 :  [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/tree/main/PROJECT%20DEVELOPMENT%20PHASE/Sprint%201)
    
-   #### Sprint2                      :  [Sprint 2]() 
+   #### Sprint2                 :  [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/tree/main/PROJECT%20DEVELOPMENT%20PHASE/Sprint%202) 
    
-   #### Sprint3                      :  [Sprint 3]()
+   #### Sprint3                 :  [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/tree/main/PROJECT%20DEVELOPMENT%20PHASE/Sprint%203)
    
-   #### Sprint4                      :  [Sprint 4]()
+   #### Sprint4                 :  [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-2150-1658463985/tree/main/PROJECT%20DEVELOPMENT%20PHASE/Sprint%204)
    
 ## Final Deliverables
 
